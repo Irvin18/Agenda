@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="Et_Nombre">Name</string>
+    <string name="Et_Apellidos">Last Name</string>
+    <string name="Et_Direccion">Address</string>
+    <string name="Et_Telefono">Number</string>
+
+    <string name="boton1">Save</string>
+    <string name="boton2">Search</string>
+    <string name="boton3">Delete</string>
+    <string name="boton4">Modify</string>
+    <string name="boton5">Clear</string>
+    <string name="Et_ident">Identifier</string>
+</resources>

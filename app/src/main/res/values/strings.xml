@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="Et_Nombre">Nombre</string>
+    <string name="Et_Apellidos">Apellidos</string>
+    <string name="Et_Direccion">Direccion</string>
+    <string name="Et_Telefono">Telefono</string>
+
+    <string name="boton1">Guardar</string>
+    <string name="boton2">Consulta</string>
+    <string name="boton3">Baja</string>
+    <string name="boton4">Modificar</string>
+    <string name="boton5">Limpiar</string>
+    <string name="Et_ident">Identificador</string>
+
+</resources>
